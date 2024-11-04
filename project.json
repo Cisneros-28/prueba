@@ -1,0 +1,55 @@
+{
+  "title": "actividad1",
+  "date": "28/8/24",
+  "langCodes": [
+    "gn",
+    "es"
+  ],
+  "languages": {
+    "es": "guaraní, español"
+  },
+  "areaCodes": [
+    "lleng"
+  ],
+  "areas": {
+    "es": "Lenguas, guarani"
+  },
+  "levelCodes": [
+    "PRI"
+  ],
+  "levels": {
+    "es": "Primaria (6-12)"
+  },
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "actividad1.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 4,
+  "mediaFiles": 12,
+  "totalSize": 1019409,
+  "files": [
+    "1.png",
+    "actividad1.jclic",
+    "actividad1.jclic.js",
+    "carne-resized.jpg",
+    "favicon.ico",
+    "flecha-resized.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "leche.jpg",
+    "medicina-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "queso-resized.jpg",
+    "templo.jpg"
+  ]
+}
